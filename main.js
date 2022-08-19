@@ -19,4 +19,4 @@ app.component(
   }
 )
 
-app.mount('#app')
+app.mount('#app') 
